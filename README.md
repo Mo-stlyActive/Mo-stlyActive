@@ -1,31 +1,50 @@
-👋 Hi, I'm @Mo-stlyActive
+# 👋 Hey there, I'm Mo
 
-🎓 **Background**: Trinity College Dublin graduate with 5 years of experience in programming education, teaching Processing, Python, and Godot.
+> Building AI-powered tools that create engaging content at scale
 
-�� **Current Location**: Montreal, Canada (relocated from Ireland)
+🎓 **Background**: Trinity College Dublin graduate with 5 years of experience in programming education  
+📍 **Location**: Montreal, Canada (relocated from Ireland)  
+🎯 **Next Move**: Targeting software development roles in Valencia, Spain or Brussels, Belgium
 
-�� **Current Focus**: Full-stack development with modern technologies
-- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Go, Spring Framework
-- **AI/ML**: OpenAI API integration, modern AI development practices
-- **DevOps**: CI/CD, Docker, cloud deployment
+## 🚀 What I'm Building
 
-🚀 **Recent Projects**: 
-- **poe2genie**: A modern Path of Exile 2 build & trade AI helper built with Next.js, TypeScript, and OpenAI integration
-- Full-stack applications with real-world problem solving
-- AI-powered features and modern web development
+### 🎬 BrainRotMaker
+Zero-cost AI pipeline that auto-generates viral shorts:
+- Scrapes trending topics & generates video concepts with local LLMs
+- Renders Minecraft-style animations with Blender + Python
+- Adds AI voice-over & auto-uploads to YouTube/TikTok/Reels
+- 100% open-source, runs on consumer hardware
 
-🎯 **Goals**: 
-- Transition to software development roles in Europe (Valencia, Spain or Brussels, Belgium)
-- Build scalable, production-ready applications
-- Contribute to innovative projects using modern tech stacks
-- Leverage AI/ML capabilities in web applications
+### 🎮 poe2genie
+Modern Path of Exile 2 build & trade AI helper:
+- Built with Next.js, TypeScript, and OpenAI integration
+- Real-world problem solving with AI assistance
+- Production-ready architecture
 
-🔗 **Connect**: Open to opportunities in full-stack development, AI integration, and modern web technologies.
+## 🛠️ Tech Stack
 
-*Building the future, one commit at a time* 🚀
+```python
+{
+    'frontend': ['React', 'Next.js', 'TypeScript', 'Tailwind CSS'],
+    'backend': ['Node.js', 'Go', 'Spring Framework', 'Python'],
+    'ai/ml': ['Local LLMs', 'OpenAI API', 'Computer Vision', 'TTS'],
+    'creative': ['Blender API', 'FFmpeg', 'Processing', 'Godot'],
+    'devops': ['Docker', 'CI/CD', 'GitHub Actions', 'Cloud Deploy'],
+    'tools': ['VSCode', 'Git', 'Linux']
+}
+```
 
-<!---
-Mo-stlyActive/Mo-stlyActive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🎯 Focus Areas
+
+- 🧠 Leveraging AI to automate creative workflows
+- 🎨 Building scalable, production-ready applications
+- 🚀 Exploring modern AI development practices
+- 💡 Teaching & sharing knowledge (5 years teaching Processing, Python, Godot)
+- 🌐 Full-stack development with cutting-edge tech
+
+## 📫 Let's Connect
+
+- 💬 Ask me about AI video generation, automation, or modern web dev
+- 🤝 Open to collaborating on AI/ML and full-stack projects
+- 🎯 Seeking opportunities in Europe (Valencia/Brussels) and Canada (Montreal)
+- 📧 Reach me: [moho2010@live.ie]
