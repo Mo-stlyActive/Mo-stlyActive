@@ -4,7 +4,7 @@
 
 🎓 **Background**: Trinity College Dublin graduate with 5 years of experience in programming education  
 📍 **Location**: Montreal, Canada (relocated from Ireland)  
-🎯 **Next Move**: Targeting software development roles in Valencia, Spain or Brussels, Belgium
+🎯 **Next Move**: Targeting software development roles in Ireland, Valencia, Spain or Brussels, Belgium
 
 ## 🚀 What I'm Building
 
