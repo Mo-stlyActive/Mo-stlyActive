@@ -3,7 +3,7 @@
 > Building AI-powered tools that create engaging content at scale
 
 🎓 **Background**: Trinity College Dublin graduate with 5 years of experience in programming education  
-📍 **Location**: Dublin, Ireland 
+📍 **Location**: Dublin, Ireland                       
 🎯 **Next Move**: Targeting software development roles in Ireland, Valencia, Spain or Brussels, Belgium
 
 ## 🚀 What I'm Building
